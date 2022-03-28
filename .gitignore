@@ -1,0 +1,6 @@
+#gitignore
+(all)
+!.gitignore
+!bin
+!src
+!makefile
